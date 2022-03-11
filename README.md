@@ -1,4 +1,4 @@
-# HLCexpress
+# MiniBlog
 
 "npm install", tanto en la carpeta raiz, como en app/app
 
